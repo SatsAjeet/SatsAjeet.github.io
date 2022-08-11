@@ -1,0 +1,22 @@
+{
+  "city": [
+    {
+      "country": "India",
+      "city": "bhubaneswar",
+      "population": "78649867638473",
+      "id": 1
+    },
+    {
+      "country": "Sri-Lank",
+      "city": "sri",
+      "population": "6666666",
+      "id": 3
+    },
+    {
+      "country": "India",
+      "city": "Delhi",
+      "population": "5467488994",
+      "id": 4
+    }
+  ]
+}
